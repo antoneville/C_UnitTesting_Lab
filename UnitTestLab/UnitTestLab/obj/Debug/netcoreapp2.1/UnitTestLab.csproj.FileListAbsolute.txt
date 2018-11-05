@@ -1,0 +1,11 @@
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\bin\Debug\netcoreapp2.1\UnitTestLab.deps.json
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\bin\Debug\netcoreapp2.1\UnitTestLab.runtimeconfig.json
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\bin\Debug\netcoreapp2.1\UnitTestLab.runtimeconfig.dev.json
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\bin\Debug\netcoreapp2.1\UnitTestLab.dll
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\bin\Debug\netcoreapp2.1\UnitTestLab.pdb
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.csprojAssemblyReference.cache
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.AssemblyInfoInputs.cache
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.AssemblyInfo.cs
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.dll
+C:\Users\Anthony Neville\source\repos\UnitTestLab\UnitTestLab\obj\Debug\netcoreapp2.1\UnitTestLab.pdb
